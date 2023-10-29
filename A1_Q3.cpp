@@ -2,10 +2,10 @@
 using namespace std;
 int main()
 {
-    int t,n;
+    int i,t,n;
     cout<<"Enter no of inputs given by user ";
     cin>>t;
-    for(int i=1; i<=t; i++)
+    for(i=1; i<=t; i++)
     {
         cout<<"Enter number ";
         cin>>n;
