@@ -2,16 +2,16 @@
 using namespace std;
 int main()
 {
-    int m;
+    int marks;
     cout<<"Enter your Marks ";
-    cin>>m;
-    if(m>90)
+    cin>>marks;
+    if(marks>90)
       cout<<"Excellent \n";
-    else if(m>80)
+    else if(marks>80)
       cout<<"Good \n";
-    else if(m>70)
+    else if(marks>70)
       cout<<"Fair \n";
-    else if(m>60)
+    else if(marks>60)
       cout<<"Meets expectations \n";
     else
       cout<<"Below par \n";
