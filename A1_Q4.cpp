@@ -2,11 +2,11 @@
 using namespace std;
 int main()
 {
-    int low,high;
+    int l,h;
     cout<<"Enter lower bound of range ";
-    cin>>low;
+    cin>>l;
     cout<<"Enter upper bound of range ";
-    cin>>high;
+    cin>>h;
     cout<<"Prime numbers btw given range are\n ";
     for(int i=l; i<=h; i++)
     {
