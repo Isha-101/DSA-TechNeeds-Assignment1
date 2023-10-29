@@ -2,8 +2,7 @@
 using namespace std;
 int main()
 {
-    int n,k;
-    int j=1;
+    int n,k,j=1;
     cout<<"Enter number ";
     cin>>n;
     cout<<"Enter number of digits to be rotated ";
